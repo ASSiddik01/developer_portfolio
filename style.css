@@ -88,3 +88,8 @@ h2{
     background-repeat: no-repeat;
     background-position: right;
 }
+
+footer{
+    text-align: center;
+    color: rgb(161, 157, 157);
+}
