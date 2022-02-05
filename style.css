@@ -33,6 +33,10 @@ h2{
     width: 85%;
 }
 
+a{
+    text-decoration: none;
+}
+
 .half_width{
     width: 50%;
     padding-left: 2%;
