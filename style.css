@@ -51,3 +51,40 @@ h2{
     background-image: url(img/top-banner.png);
     background-repeat: no-repeat;
 }
+
+.exprience_item h1{
+    font-size: 40px;
+    font-weight: 500;
+}
+
+#full_stack_dev{
+    border-left: 7px solid ;
+    border-image: linear-gradient(#fa6655,#f78968);
+    border-image-slice: 1;
+}
+
+.exprience_item{
+    box-shadow: 10px 10px 40px #868484;
+    width: 40%;
+    padding: 2%;
+    margin-left: 5%;
+    margin-right: 2%;
+}
+
+#bady_dev{
+    border-left: 7px solid ;
+    border-image: linear-gradient(#0007ff,#00f3ff);
+    border-image-slice: 1;
+}
+
+.exprience_area{
+    background-image: url(img/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.dream_bg{
+    background-image: url(img/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
